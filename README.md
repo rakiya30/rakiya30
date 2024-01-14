@@ -3,13 +3,13 @@
  I'm excited to bring these valuable skills to the realm of data analytics, where I am committed to mastering the tools and techniques to become an insightful data storyteller.
 
 
-- 🛠 Technical Skills
+ 🛠 Technical Skills
 
- Data Visualization: Power BI 
+- Data Visualization: Power BI 
 
- Database Management: SQL
+- Database Management: SQL
  
- Programming: R (dplyr, ggplot2)
+- Programming: R (dplyr, ggplot2)
 
 - 👀 I’m interested in everything data
 - 🌱 I’m currently working on building my data analytics skills in SQL, PowerBi, R Programming and Excel
