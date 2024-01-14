@@ -3,7 +3,7 @@
  I'm excited to bring these valuable skills to the realm of data analytics, where I am committed to mastering the tools and techniques to become an insightful data storyteller.
 
 
-🛠 Technical Skills
+- 🛠 Technical Skills
 
 Data Visualization: Power BI 
 Database Management: SQL
