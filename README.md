@@ -6,7 +6,9 @@
 - 🛠 Technical Skills
 
 Data Visualization: Power BI 
+
 Database Management: SQL
+
 Programming: R (dplyr, ggplot2)
 
 - 👀 I’m interested in everything data
